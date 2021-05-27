@@ -1,32 +1,6 @@
 ul.social-network{
     list-style: none;
     padding: 0;
-<<<<<<< HEAD
-  }
-  
-  ul.social-network li{
-      display: inline;
-      margin: 0;
-      padding: 5px;
-  }
-
-  .fa{
-      font-size: 35pt;
-      color: white;
-      padding: 10px;
-  }
-  .fa-facebook:hover{
-      color: #3b5998;
-  }
-
-  .fa-instagram:hover{
-      color: rgb(202, 63, 82);
-  }
-
-  .fa-github:hover{
-      color: teal;
-  }
-=======
 }
 
 ul.social-network li{
@@ -51,4 +25,3 @@ ul.social-network li{
 .fa-instagram:hover{
     color:#e2725b;
 }
->>>>>>> component-entrar-cadasrar
