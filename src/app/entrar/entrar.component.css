@@ -1,7 +1,17 @@
 #img-bg{
+<<<<<<< HEAD
     background-image: url('https://i.imgur.com/GuwipJi.jpg');
     min-height: 695px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     }
+=======
+    background-image: url(../../assets/elf.jpg);
+     min-height: 695px;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+>>>>>>> component-entrar-cadasrar
