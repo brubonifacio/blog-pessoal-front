@@ -10,6 +10,7 @@ import { CadastrarComponent } from './cadastrar/cadastrar.component';
 import { EntrarComponent } from './entrar/entrar.component';
 import { from } from 'rxjs';
 import { FormsModule } from '@angular/forms';
+import { InicioComponent } from './inicio/inicio.component';
 
 @NgModule({
   declarations: [
@@ -17,7 +18,8 @@ import { FormsModule } from '@angular/forms';
     MenuComponent,
     RodapeComponent,
     CadastrarComponent,
-    EntrarComponent
+    EntrarComponent,
+    InicioComponent
   ],
   imports: [
     BrowserModule,
